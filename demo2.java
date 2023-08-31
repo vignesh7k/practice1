@@ -19,4 +19,7 @@ NBSBC
 
 B ASKJBSBDS
 BADBSBBDDBAS
-HIBUBAS
+HIBUBA
+kjl
+S
+hello checking practically ...........................
