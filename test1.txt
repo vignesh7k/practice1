@@ -2,8 +2,17 @@ ertyuigfjhgh
 hhh
 jhjki
 ghtrhriu
+<<<<<<< HEAD
 gbnn,l
 
 
 
 comparing same files
+=======
+gbnn,
+l
+
+
+
+testing it
+>>>>>>> master
